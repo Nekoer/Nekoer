@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nekoer)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📊 每周工作报告
+### 📊 代码比例
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekoer)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
