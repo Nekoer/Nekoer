@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
+### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=Nekoer.readme)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nekoer)](https://github.com/anuraghazra/github-readme-stats)
 
