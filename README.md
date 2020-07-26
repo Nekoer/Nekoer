@@ -1,6 +1,7 @@
 ### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
 
-![](https://github-readme-stats.vercel.app/api?username=journey-ad&hide=[%22issues%22]&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nekoer)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **journey-ad/journey-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
