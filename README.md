@@ -14,12 +14,12 @@
 
 ### 天天都在瞎整什么活儿
 
-![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
-![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
-![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
-![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
-![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
-![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
+![](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![](https://img.shields.io/badge/-python-3776ab?style=flat-square&logo=python&logoColor=fff)
 <br>
 ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
 ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
