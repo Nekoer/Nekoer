@@ -50,3 +50,19 @@
 ![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
 ![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
 ![](https://img.shields.io/badge/-kotlin-3776ab?style=flat-square&logo=kotlin&logoColor=green)
+
+
+## Mirai Console Plugins
+* [Mirai-Plugins-Pixiv](https://github.com/Nekoer/mirai-plugins-pixiv/)  
+  [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/461)
+  ![Stars](https://img.shields.io/github/stars/Nekoer/mirai-plugins-pixiv)
+  ![Downloads](https://img.shields.io/github/downloads/Nekoer/mirai-plugins-pixiv/total)
+  [![Release](https://img.shields.io/github/v/release/Nekoer/mirai-plugins-pixiv)](https://github.com/Nekoer/mirai-plugins-pixiv/releases)
+* [Mirai-Github-Notice](https://github.com/Nekoer/mirai-github-notice/)  
+  [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/460)
+  ![Stars](https://img.shields.io/github/stars/Nekoer/mirai-github-notice)
+  ![Downloads](https://img.shields.io/github/downloads/Nekoer/mirai-github-notice/total)
+  [![Release](https://img.shields.io/github/v/release/Nekoer/mirai-github-notice)](https://github.com/Nekoer/mirai-github-notice/releases)
+  
+## 附言
+~~别卷了卷不懂了，这个时代再卷要出人命了~~
