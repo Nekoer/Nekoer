@@ -63,6 +63,12 @@
   ![Stars](https://img.shields.io/github/stars/Nekoer/mirai-github-notice)
   ![Downloads](https://img.shields.io/github/downloads/Nekoer/mirai-github-notice/total)
   [![Release](https://img.shields.io/github/v/release/Nekoer/mirai-github-notice)](https://github.com/Nekoer/mirai-github-notice/releases)
-  
+
+## Tencent-Guild-Sdk
+* [Tencent-Guild-Protocol](https://github.com/Nekoer/tencent-guild-protocol)  
+  ![Stars](https://img.shields.io/github/stars/Nekoer/tencent-guild-protocol)
+  ![Code](https://img.shields.io/github/languages/code-size/Nekoer/tencent-guild-protocol)
+  ![maven-central](https://img.shields.io/maven-central/v/com.hcyacg/tencent-guild-protocol)
+
 ## 附言
 ~~别卷了卷不懂了，这个时代再卷要出人命了~~
