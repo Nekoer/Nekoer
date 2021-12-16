@@ -71,4 +71,4 @@
   ![maven-central](https://img.shields.io/maven-central/v/com.hcyacg/tencent-guild-protocol)
 
 ## 附言
-~~别卷了卷不懂了，这个时代再卷要出人命了~~
+~~Don't roll it up. It's killing you in this day and age~~
