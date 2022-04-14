@@ -63,6 +63,11 @@
   ![Stars](https://img.shields.io/github/stars/Nekoer/mirai-github-notice)
   ![Downloads](https://img.shields.io/github/downloads/Nekoer/mirai-github-notice/total)
   [![Release](https://img.shields.io/github/v/release/Nekoer/mirai-github-notice)](https://github.com/Nekoer/mirai-github-notice/releases)
+* [Mirai-Plugins-Bilibili](https://github.com/Nekoer/mirai-plugins-bilibili/)  
+  [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/1129)
+  ![Stars](https://img.shields.io/github/stars/Nekoer/mirai-plugins-bilibili)
+  ![Downloads](https://img.shields.io/github/downloads/Nekoer/mirai-plugins-bilibili/total)
+  [![Release](https://img.shields.io/github/v/release/Nekoer/mirai-plugins-bilibili)](https://github.com/Nekoer/mirai-plugins-bilibili/releases)
 
 ## Tencent-Guild-Sdk
 * [Tencent-Guild-Protocol](https://github.com/Nekoer/tencent-guild-protocol)  
