@@ -69,6 +69,7 @@
   ![Downloads](https://img.shields.io/github/downloads/Nekoer/mirai-plugins-bilibili/total)
   [![Release](https://img.shields.io/github/v/release/Nekoer/mirai-plugins-bilibili)](https://github.com/Nekoer/mirai-plugins-bilibili/releases)
 * [Mirai-Plugins-NovelAi](https://github.com/Nekoer/mirai-plugins-novelai/)  
+  [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/1660)
   ![Stars](https://img.shields.io/github/stars/Nekoer/mirai-plugins-novelai)
   ![Downloads](https://img.shields.io/github/downloads/Nekoer/mirai-plugins-novelai/total)
   [![Release](https://img.shields.io/github/v/release/Nekoer/mirai-plugins-novelai)](https://github.com/Nekoer/mirai-plugins-novelai/releases)
