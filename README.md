@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nekoer&show_icons=true&hide_border=true&include_all_commits_disable=false&custom_title=牧瀬くりす最高だ！！！&count_private=true"> -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nekoer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&custom_title=牧瀬くりす最高だ！！！&locale=cn">
+  <img align="right" src="https://readme-stats.clckblog.space/api?username=Nekoer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&custom_title=牧瀬くりす最高だ！！！&locale=cn">
 </a>
 
 ## 🌱Nekoer
@@ -10,7 +10,7 @@
 - 二刺螈二刺螈！
 
 <a href=#>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekoer&layout=compact&hide_border=true">
+  <img align="right" src="https://readme-stats.clckblog.space/api/top-langs/?username=Nekoer&layout=compact&hide_border=true">
 </a>
 
 ### 天天都在瞎整什么活儿
