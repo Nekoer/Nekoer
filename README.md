@@ -1,9 +1,9 @@
 ### 重要信息
 有人伪造我用户名向不属于我的仓库提交违法commits
 
-Github: [YosakuraTohu](https://github.com/FreeQQBot/SignServer)
+Github仓库: [FreeQQBot](https://github.com/FreeQQBot/SignServer)
 
-Github: [YosakuraTohu](https://github.com/YosakuraTohu)
+Github个人: [YosakuraTohu](https://github.com/YosakuraTohu)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
